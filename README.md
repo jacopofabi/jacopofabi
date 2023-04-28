@@ -2,10 +2,10 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and Cybersecurity Specialist <img src="https://media.giphy.com/media/2i7jspnRBYgg6v4Oki/giphy.gif" width="30"> from Italy. I already have a degree in Computer Engineering and I am currently completing my master degree with Cybersecurity address at the University of Rome Tor Vergata.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and Cybersecurity Student <img src="https://media.giphy.com/media/2i7jspnRBYgg6v4Oki/giphy.gif" width="30"> from Italy. I already have a degree in Computer Engineering and I am currently completing my master degree with Cybersecurity address at the University of Rome Tor Vergata.
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- ⚡ In my free time I enjoy taking part in cybersec challenges and read tech articles to stay updated.
+- ⚡ In my free time I enjoy taking part in cybersec challenges and read tech articles to stay updated and learning new things.
 
 ---
 
