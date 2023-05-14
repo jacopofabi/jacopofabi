@@ -44,6 +44,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacopofabi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jacopofabi&theme=dark&background=000000)](https://git.io/streak-stats)
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jacopofabi&theme=gruvbox&show_icons=true" alt="Github Language Stats">
+    </td>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jacopofabi&show_icons=true&theme=gruvbox" alt="GitHub Stats">
+    </td>
+  </tr>
+</table>
