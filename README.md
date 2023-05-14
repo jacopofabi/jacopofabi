@@ -54,3 +54,17 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     </td>
   </tr>
 </table>
+
+---
+
+### 💻 &nbsp;Contributions :
+Other university projects in which I partecipated:
+- [SABD_proj1][1]
+- [SABD_proj2][2]
+- [NSD_proj][3]
+- [ML_proj][4]
+
+[1]: [https://github.com/danilo-dellorco/SABD_proj1]
+[2]: [https://github.com/michsalvv/SABD_proj2]
+[3]: [https://github.com/danilo-dellorco/NSD_Proj2]
+[4]: [https://github.com/danilo-dellorco/ml-project]
