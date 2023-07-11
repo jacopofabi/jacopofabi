@@ -63,8 +63,10 @@ Other university projects in which I partecipated:
 - [SABD_proj2][2]
 - [NSD_proj][3]
 - [ML_proj][4]
+- [PMCSN_proj][5]
 
 [1]: https://github.com/danilo-dellorco/SABD_proj1
 [2]: https://github.com/michsalvv/SABD_proj2
 [3]: https://github.com/danilo-dellorco/NSD_Proj2
 [4]: https://github.com/danilo-dellorco/ml-project
+[5]: https://github.com/wronek97/PMCSN_Project
